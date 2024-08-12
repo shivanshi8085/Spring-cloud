@@ -1,0 +1,13 @@
+server:
+  port: 8761
+
+spring:
+  application:
+    name: discovery-server
+
+eureka:
+  server:
+    peer-node-read-timeout-ms: 5000
+  client:
+    registerWithEureka: false
+    fetchRegistry: false

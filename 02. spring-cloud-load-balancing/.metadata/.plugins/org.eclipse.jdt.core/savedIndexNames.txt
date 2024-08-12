@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\rays software\spring-cloud\02. spring-cloud-load-balancing\.metadata\.plugins\org.eclipse.jdt.core
+2851180925.index
+1050042363.index
+3120250875.index
+2227838403.index
+821608647.index

@@ -1,0 +1,9 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /service02
+spring:
+  application:
+    name: service02
+  config:
+    import: configserver:http://localhost:8888

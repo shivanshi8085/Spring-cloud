@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\rays software\spring-cloud\07 spring-cloud-apache-kafka\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+821608647.index
+3120250875.index
+926839794.index
+2561352568.index
+3910666218.index
+2227838403.index
+1519097914.index
+1050042363.index

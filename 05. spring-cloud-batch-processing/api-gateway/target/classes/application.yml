@@ -1,0 +1,10 @@
+server:
+  host: locallhost
+  port: 8080
+spring:
+  main:
+    web-application-type: reactive
+  application:
+    name: api-gateway
+  config:
+    import: configserver:http://localhost:8888 

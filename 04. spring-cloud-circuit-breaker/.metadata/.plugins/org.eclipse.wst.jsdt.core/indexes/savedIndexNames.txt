@@ -1,0 +1,11 @@
+INDEX VERSION 1.4+C:\rays software\spring-cloud\04. spring-cloud-circuit-breaker\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2227838403.index
+2727695510.index
+2413686916.index
+1050042363.index
+3362149729.index
+2851180925.index
+821608647.index
+3120250875.index
+381249788.index
+2571582688.index
